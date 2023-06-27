@@ -1,6 +1,5 @@
 # EPD_spoorwegovergang
 Opdracht van de HAN in Nijmegen uit de course EPD.
-Dit project is opgedeeld in 2 segmenten.
 
 ## Documentatie
 Alle documentatie is terug te vinden in het WORD bestand.
